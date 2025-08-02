@@ -47,10 +47,10 @@ python proxy.py --clear-cache
 ```
 python proxy.py --port 8000 --origin  https://www.python-httpx.org/
 ```
-![alt text](<Screenshot (70).png>)
+![alt text](<assests/images/Screenshot (70).png>)
 
 - upstash cache storage 
-![alt text](<Screenshot (71).png>)
+![alt text](<assests/images/Screenshot (71).png>)
 
 - resources being fetced from cache.
-![alt text](<Screenshot (72).png>)
+![alt text](<assests/images/Screenshot (72).png>)
